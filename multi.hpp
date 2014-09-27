@@ -1,4 +1,4 @@
-/* Simple any-key/value multimap. Key order matters. MIT licensed.
+/* Simple any-key/value multimap. Key order matters. BOOST licensed.
  * This is a std compatible-ish container in spirit of std::multimap, whereas it handles
  * multiple-keys/single-value as opposed to single-key/multiple-values.
 
